@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   filament_app:
     image: bitnami/laravel:9.5.1
